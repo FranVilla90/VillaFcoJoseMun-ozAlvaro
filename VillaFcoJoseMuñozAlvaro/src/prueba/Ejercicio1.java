@@ -6,6 +6,7 @@ public class Ejercicio1 {
 	//Alumno2 se incorpora al proyecto: AlvaroMu�oz
 	//Alumno1 verifica los cambios y modifica la edad: Fco José Villa
 	// Constantes
+	//cambio para captura
 	private static final int EDAD_MAXIMA = 99;
 	private static final int LIMITE_NINNO = 12;
 	private static final int LIMITE_ADOLESCENTE = 17;
