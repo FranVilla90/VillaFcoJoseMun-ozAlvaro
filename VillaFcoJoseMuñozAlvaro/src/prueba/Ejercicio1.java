@@ -3,9 +3,10 @@ package prueba;
 import java.util.Scanner;
 
 public class Ejercicio1 {
-	//Alumno2 se incorpora al proyecto: AlvaroMuñoz
+	//Alumno2 se incorpora al proyecto: AlvaroMuï¿½oz
+	//Alumno1 verifica los cambios y modifica la edad: Fco JosÃ© Villa
 	// Constantes
-	private static final int EDAD_MAXIMA = 100;
+	private static final int EDAD_MAXIMA = 90;
 	private static final int LIMITE_NINNO = 12;
 	private static final int LIMITE_ADOLESCENTE = 17;
 	private static final int LIMITE_JOVEN = 29;
